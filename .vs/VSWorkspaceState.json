@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\HotelManagementSystem",
+    "\\HotelManagementSystem\\Views",
+    "\\HotelManagementSystem\\Views\\Account",
+    "\\HotelManagementSystem\\Views\\Home"
+  ],
+  "SelectedNode": "\\HotelManagementSystem\\Views\\Account\\SignUp.cshtml",
+  "PreviewInSolutionExplorer": false
+}
